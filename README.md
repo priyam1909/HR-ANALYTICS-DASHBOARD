@@ -50,6 +50,8 @@ The Power BI dashboard was developed based on the insights gained from the EDA p
 
 1. Download and open the Power BI project file (.pbix) using Power BI Desktop.
 2. Interact with the dashboard by applying filters, exploring different visualizations, and gaining insights into HR metrics.
+![Capture1](https://github.com/user-attachments/assets/402e5f5e-7899-4507-ac78-fdf3a9aad3e5)
+
 
 ## Contributors
 
